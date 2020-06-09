@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+Reacher.app/
+
+
+.ipynb_checkpoints/
+.idea/
+
+.DS_Store
+
+.default.profraw

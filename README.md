@@ -1,6 +1,6 @@
-# Continuous Control with DDPG
+# Continuous Control with Twin Delayed DDPG
 
-This repository provides the code required to train an agent using DDPG to solve the _Continuous Control_ assignment from Udacity's Deep Reinforcement Learning Nanodgree
+This repository provides the code required to train an agent using **Twin Delayed DDPG (TD3)** to solve the _Continuous Control_ assignment from Udacity's Deep Reinforcement Learning Nanodgree
 
 ## Environment
 
@@ -48,11 +48,11 @@ __Note: Unzip the file in the same directory as the notebooks from this reposito
 
 ## Training the Agent
 
-Run the cells in `Continuous Control with DDPG (Train).ipynb` to train the agent. The agent will stop training once it reaches an average score of +30 over 100 consecutive episodes
+Run the cells in `Continuous Control with TD3 (Train).ipynb` to train the agent. The agent will stop training once it reaches an average score of +30 over 100 consecutive episodes
 
 ## Watch a Trained Agent in Action
 
-Run `Continuous Control with DDPG (Test).ipynb` to watch a pre-trained agent collect Bananas!
+Run `Continuous Control with TD3 (Test).ipynb` to watch a pre-trained agent in action!
 
 
 
